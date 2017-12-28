@@ -27,7 +27,7 @@ cargo build --release
 
 ## Run
 ```
-./release/rusty-nim
+./target/release/rusty-nim
 ```
 
 Enjoy
