@@ -1,0 +1,7 @@
+[package]
+name = "rusty-nim"
+version = "1.0.0"
+authors = ["Heru-Luin"]
+
+[dependencies]
+rand_num_gen = "0.1.0"

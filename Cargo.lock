@@ -1,0 +1,14 @@
+[[package]]
+name = "rand_num_gen"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "rusty-nim"
+version = "1.0.0"
+dependencies = [
+ "rand_num_gen 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[metadata]
+"checksum rand_num_gen 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "920b09d263e21607fb5579008e7be6a06c8102558e2559dfba729d6b40cc6c07"
